@@ -4,6 +4,7 @@
 
 ## Welcome! 👋
 
+This website was built as a completion of a Frontend Mentor challenge. 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## The challenge
@@ -31,7 +32,7 @@ There is also a `style-guide.md` file containing helpful informations, such as c
 
 ## Project deployment
 
-The live version of the website can be found at 
+The live version of the website can be found [here](https://juniorafrocoder.github.io/Huddle-landing-page)
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
